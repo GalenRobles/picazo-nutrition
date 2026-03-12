@@ -8,6 +8,7 @@ export const metadata = {
     title: 'Picazo Nutrition & More',
     description: 'Suplementos premium. Pedidos y entregas a domicilio.',
     images: ['/logo.png'],
+    icon: '/favicon.ico',
   },
 }
 
