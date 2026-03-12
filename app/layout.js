@@ -5,7 +5,7 @@ export const metadata = {
   description: 'Tu tienda de suplementos de confianza. Pedidos a domicilio, entregas directas. Calidad premium al mejor precio.',
   keywords: 'suplementos, proteína, creatina, pre-workout, vitaminas, Picazo Nutrition',
   icons: {
-    icon: '/favicon.ico',
+    icon: '/logo.ico',
   },
   openGraph: {
     title: 'Picazo Nutrition & More',
